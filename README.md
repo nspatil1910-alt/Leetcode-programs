@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0001-two-sum/) | Easy |
+| [0063-unique-paths-ii](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0063-unique-paths-ii/) | Medium |
 | [0198-house-robber](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0198-house-robber/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Hash Table
@@ -21,6 +22,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0063-unique-paths-ii](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0198-house-robber/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -34,4 +36,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0371-sum-of-two-integers](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0371-sum-of-two-integers/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0063-unique-paths-ii](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0063-unique-paths-ii/) | Medium |
 <!---LeetCode Topics End-->
