@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0001-two-sum/) | Easy |
 | [0063-unique-paths-ii](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0063-unique-paths-ii/) | Medium |
 | [0198-house-robber](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0198-house-robber/) | Medium |
+| [0322-coin-change](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0322-coin-change/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -26,6 +27,7 @@
 | [0063-unique-paths-ii](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0198-house-robber/) | Medium |
+| [0322-coin-change](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0322-coin-change/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Memoization
@@ -42,4 +44,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0063-unique-paths-ii/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
