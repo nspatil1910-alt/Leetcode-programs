@@ -56,4 +56,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0344-reverse-string/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0021-merge-two-sorted-lists/) | Easy |
 <!---LeetCode Topics End-->
