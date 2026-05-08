@@ -58,6 +58,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0344-reverse-string/) | Easy |
+| [0796-rotate-string](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0796-rotate-string/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,4 +71,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0867-transpose-matrix](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0867-transpose-matrix/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
