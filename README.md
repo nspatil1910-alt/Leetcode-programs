@@ -15,6 +15,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0001-two-sum/) | Easy |
+| [0242-valid-anagram](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0242-valid-anagram/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,6 +62,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0796-rotate-string](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0796-rotate-string/) | Easy |
@@ -89,4 +91,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/1903-largest-odd-number-in-string/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
