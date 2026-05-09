@@ -23,6 +23,7 @@
 | [0070-climbing-stairs](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0070-climbing-stairs/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0371-sum-of-two-integers/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1688-count-of-matches-in-tournament](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -78,6 +79,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0867-transpose-matrix](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0867-transpose-matrix/) | Easy |
+| [1688-count-of-matches-in-tournament](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
