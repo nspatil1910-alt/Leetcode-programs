@@ -1,7 +1,6 @@
 class Solution {
     public String largestOddNumber(String num) {
-
-        for (int i = num.length() - 1; i >= 0; i--) {
+                for (int i = num.length() - 1; i >= 0; i--) {
 
             char ch = num.charAt(i);
 
@@ -13,6 +12,7 @@ class Solution {
         }
 
         return "";
+
+        
     }
 }
-        
