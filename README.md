@@ -23,6 +23,7 @@
 | [0070-climbing-stairs](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0070-climbing-stairs/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0371-sum-of-two-integers/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,6 +64,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0796-rotate-string](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0796-rotate-string/) | Easy |
 | [1528-shuffle-string](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/1528-shuffle-string/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,4 +81,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0796-rotate-string/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/1903-largest-odd-number-in-string/) | Easy |
 <!---LeetCode Topics End-->
