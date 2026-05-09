@@ -10,6 +10,7 @@
 | [0322-coin-change](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0322-coin-change/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0867-transpose-matrix](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0867-transpose-matrix/) | Easy |
+| [1528-shuffle-string](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/1528-shuffle-string/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,6 +62,7 @@
 | [0344-reverse-string](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0796-rotate-string](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0796-rotate-string/) | Easy |
+| [1528-shuffle-string](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/1528-shuffle-string/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
