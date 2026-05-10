@@ -69,6 +69,7 @@
 | [1528-shuffle-string](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/1528-shuffle-string/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
+| [2278-percentage-of-letter-in-string](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/2278-percentage-of-letter-in-string/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
