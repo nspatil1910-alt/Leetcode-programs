@@ -11,6 +11,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0867-transpose-matrix](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0867-transpose-matrix/) | Easy |
 | [1528-shuffle-string](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/1528-shuffle-string/) | Easy |
+| [1572-matrix-diagonal-sum](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [2373-largest-local-values-in-a-matrix](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -51,6 +52,7 @@
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0063-unique-paths-ii/) | Medium |
 | [0867-transpose-matrix](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0867-transpose-matrix/) | Easy |
+| [1572-matrix-diagonal-sum](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [2373-largest-local-values-in-a-matrix](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
