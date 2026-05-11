@@ -11,6 +11,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0812-largest-triangle-area](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0812-largest-triangle-area/) | Easy |
 | [0867-transpose-matrix](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0867-transpose-matrix/) | Easy |
+| [1408-string-matching-in-an-array](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1528-shuffle-string](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/1528-shuffle-string/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [2373-largest-local-values-in-a-matrix](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
@@ -72,6 +73,7 @@
 | [0344-reverse-string](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0796-rotate-string](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0796-rotate-string/) | Easy |
+| [1408-string-matching-in-an-array](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1528-shuffle-string](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/1528-shuffle-string/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
@@ -94,6 +96,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0796-rotate-string/) | Easy |
+| [1408-string-matching-in-an-array](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/1408-string-matching-in-an-array/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
