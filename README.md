@@ -26,6 +26,7 @@
 | [0007-reverse-integer](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0007-reverse-integer/) | Medium |
 | [0029-divide-two-integers](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0029-divide-two-integers/) | Medium |
 | [0070-climbing-stairs](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0070-climbing-stairs/) | Easy |
+| [0168-excel-sheet-column-title](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0812-largest-triangle-area](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0812-largest-triangle-area/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -69,6 +70,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0168-excel-sheet-column-title](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0242-valid-anagram](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
