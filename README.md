@@ -9,6 +9,7 @@
 | [0198-house-robber](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0322-coin-change/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0812-largest-triangle-area](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0812-largest-triangle-area/) | Easy |
 | [0867-transpose-matrix](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0867-transpose-matrix/) | Easy |
 | [1528-shuffle-string](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/1528-shuffle-string/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -25,6 +26,7 @@
 | [0029-divide-two-integers](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0029-divide-two-integers/) | Medium |
 | [0070-climbing-stairs](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0070-climbing-stairs/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0812-largest-triangle-area](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0812-largest-triangle-area/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -100,4 +102,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0242-valid-anagram/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0812-largest-triangle-area](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0812-largest-triangle-area/) | Easy |
 <!---LeetCode Topics End-->
