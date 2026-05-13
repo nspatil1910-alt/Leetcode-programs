@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0001-two-sum/) | Easy |
 | [0063-unique-paths-ii](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0063-unique-paths-ii/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0198-house-robber](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0322-coin-change/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -111,4 +112,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0812-largest-triangle-area](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0812-largest-triangle-area/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/nspatil1910-alt/Leetcode-programs/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 <!---LeetCode Topics End-->
